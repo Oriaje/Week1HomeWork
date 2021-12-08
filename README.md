@@ -58,7 +58,7 @@ SO THAT our own site is optimized for search engines
 
 I have submitted the following for review:
 
-- The image of the mock site (./assets/images/01-html-css-git-homework-demo.png)
+- The image of the mock site ![alt Mock Site](./assets/images/01-html-css-git-homework-demo.png)
 
 - The URL of the deployed application https://oriaje.github.io/Week1HomeWork/
 
